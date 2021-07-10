@@ -1,0 +1,9 @@
+*.attr
+*.edges
+*.lab
+*.txt
+*.config
+*.npz
+*.csv
+data/
+methods_old/
