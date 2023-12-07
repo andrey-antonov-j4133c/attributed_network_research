@@ -1,4 +1,6 @@
-# Experimental resesearch on metnods of node-attributed networks generation
+# Link predictability classes in large node-attributed networks
+
+This work is an addition to the paper "Link predictability classes in large node-attributed networkss" by Antonov et al.
 
 
 This research is used to evalueate methods of node attributed network generation. The generation is done based on the real world dataset:
